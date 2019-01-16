@@ -1,13 +1,6 @@
 # Britney Echeverria
-# bpecheverria
-# 111607143
+# britney.echeverria@stonybrook.edu
 
-#####################################################################
-############### DO NOT CREATE A .data SECTION! ######################
-############### DO NOT CREATE A .data SECTION! ######################
-############### DO NOT CREATE A .data SECTION! ######################
-##### ANY LINES BEGINNING .data WILL BE DELETED DURING GRADING! #####
-#####################################################################
 
 .text
 
@@ -1229,9 +1222,4 @@ lw $fp, 28($sp)
 addi $sp, $sp, 32
 jr $ra
 
-#####################################################################
-############### DO NOT CREATE A .data SECTION! ######################
-############### DO NOT CREATE A .data SECTION! ######################
-############### DO NOT CREATE A .data SECTION! ######################
-##### ANY LINES BEGINNING .data WILL BE DELETED DURING GRADING! #####
-#####################################################################
+
